@@ -1,16 +1,18 @@
-### Hi there 👋
+```
+███████╗ █████╗ ██╗   ██╗██╗███╗   ██╗███████╗  
+╚══███╔╝██╔══██╗██║   ██║██║████╗  ██║██╔════╝  
+  ███╔╝ ███████║██║   ██║██║██╔██╗ ██║███████╗  
+ ███╔╝  ██╔══██║╚██╗ ██╔╝██║██║╚██╗██║╚════██║  
+███████╗██║  ██║ ╚████╔╝ ██║██║ ╚████║███████║  
+╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+```
 
-<!--
-**Zavins/Zavins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins")
+## What's Up ##  
+### Hi there, my name is ZhiYuan Wang. I plan to become a full-stack software enginner. I'm currently a freshman at University Of California, Irvine. ###
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He, his, him 👦,👨,👴
+- 💼 I'm currently working as a full-stack student developer at OIT.
+- 🌱 I’m currently taking classes in C/C++, SQL Databases, Descrete Math, and Boolean Algebra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on Codepath Android Project: https://github.com/Zavins/CryptoTracker ##
