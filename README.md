@@ -13,6 +13,4 @@
 
 - 😄 Pronouns: He, his, him 👦,👨,👴
 - 💼 I'm currently working as a full-stack student developer at OIT.
-- 🌱 I’m currently taking classes in C/C++, SQL Databases, Descrete Math, and Boolean Algebra.
-
-## Currently working on Codepath Android Project: https://github.com/Zavins/CryptoTracker ##
+- 🌱 I’m currently taking #Data Structure Implementation and Analysis, Machine Learning & Data Mining, Principles of Operating Systems#
