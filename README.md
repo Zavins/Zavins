@@ -8,7 +8,7 @@
 ```
 ![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins")
 ## What's Up ##
-### Hi there, this is Zavins, I'm currently a junior at University Of California, Irvine. ###
+### Hi there, this is Zavins, I'm currently a senior at University Of California, Irvine. ###
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
