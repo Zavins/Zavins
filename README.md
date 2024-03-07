@@ -28,6 +28,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- 😄 Pronouns: He/him/his.
-- 💼 I'm currently working as a full-stack student developer at OIT.
-- 🌱 I’m currently taking **Data Structure Implementation and Analysis, Machine Learning & Data Mining, Principles of Operating Systems**.
+
+<!-- My GitHub Stats -->
+![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zavins&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&rank_icon=percentile&custom_title=My%20GitHub%20Stats)  
+
+- 😄 Pronouns: he/him/his.
+- 💼 I'm currently working a master student at Cornell University.
+- 🌱 I’m currently taking **Computer Network, Parallel Computing, and Operating System**.  
