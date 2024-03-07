@@ -6,7 +6,7 @@
 ███████╗██║  ██║ ╚████╔╝ ██║██║ ╚████║███████║  
 ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
-![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins")
+<!-- ![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins") -->
 ## What's Up ##
 ### Hi there, this is Zavins, I'm currently a senior at University Of California, Irvine. ###
 
