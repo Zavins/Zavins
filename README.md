@@ -8,7 +8,7 @@
 ```
 <!-- ![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins") -->
 ## What's Up ##
-### Hi there, this is Zavins, I'm currently a senior at University Of California, Irvine. ###
+### Hi there, this is Zavins, I'm currently a master student at Cornell University. ###
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,5 +33,5 @@
 ![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zavins&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&rank_icon=percentile&custom_title=My%20GitHub%20Stats)  
 
 - 😄 Pronouns: he/him/his.
-- 💼 I'm currently working a master student at Cornell University.
+- 💼 I'm currently working on Cornell's Pathways project.
 - 🌱 I’m currently taking **Computer Network, Parallel Computing, and Operating System**.  
