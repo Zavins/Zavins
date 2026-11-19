@@ -8,7 +8,7 @@
 ```
 <!-- ![100% Zavins](https://avatars.githubusercontent.com/u/59272111?v=4 "100% Zavins") -->
 ## What's Up ##
-### Hi there, this is Zavins, I'm currently a master student at Cornell University. ###
+### Hi there, this is Zavins ###
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,9 +28,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- My GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zavins&hide_border=true&show_icons=trueline_height=21&theme=tokyonight&rank_icon=percentile&custom_title=My%20GitHub%20Stats)  
 
 - 😄 Pronouns: he/him/his.
 - 💼 I'm currently working on Cornell's Pathways project.
